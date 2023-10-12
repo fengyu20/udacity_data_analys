@@ -2,6 +2,8 @@
 
 Welcome to my repository of projects completed in 2020 as part of the Udacity Data Analyst Nanodegree. I'm delighted to showcase my work and the valuable experiences and insights that I've gained throughout the course.
 
+![Certificate](image.png)
+
 ## Language Note
 Please be informed that the original work and code documentation in this repository are primarily presented in Chinese. However, I have provided detailed explanations and overviews in English for each project.
 
